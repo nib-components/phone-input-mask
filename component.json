@@ -1,0 +1,7 @@
+{
+  "name": "phone-input-mask",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "nib-components/masked-input": "^1.0.0"
+  }
+}

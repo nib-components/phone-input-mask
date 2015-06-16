@@ -1,0 +1,10 @@
+{
+  "name": "@nib-components/phone-input-mask",
+  "version": "0.1.0",
+  "dependencies": {
+    "@nib-components/masked-input": "^1.0.0"
+  },
+  "browser": {
+    "masked-input": "@nib-components/masked-input"
+  }
+}
